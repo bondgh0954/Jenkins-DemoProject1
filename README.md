@@ -26,6 +26,10 @@
   install docker on the server <br/>
   <img src='./screenshots/2image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
   <img src='./screenshots/3image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+  install Jenkins as docker image<br/>
+  <img src='./screenshots/4image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+  
   
   
   
