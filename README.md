@@ -21,7 +21,12 @@
   Create and configure firewall on DigitalOcean("server-firewall"): <br/>
   set inbound rules<br/>
   set my client PC ip as ssh source so that only my PC can ssh into the server<br/>
-  <img src='./src/image1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+  <img src='./screenshots/1image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+  install docker on the server <br/>
+  <img src='./screenshots/2image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+  
+  
 
        Login to DigitalOcean
        Select droplet
