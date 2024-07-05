@@ -43,34 +43,27 @@
   3. install Jenkins as docker image<br/>
    docker ps<br/>
    login to the jenkins running container (docker exec -it containerId bash)<br/>
+   configure firewall custom port and add jenkins container port 8080<br/>
    enter the publicIp of the jenkins server and the port where jenkins is running into the browser<br/>
    (publicIp:port)<br/>
    get the content of the password for jenkins<br/>
    install plugins<br/>
   <img src='./screenshots/4image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
-  configure firewall custom port and add jenkins container port 8080
-  copy public IP and jenkins port and start jenkins in the browser
+   <img src='./screenshots/6image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+  
+  4. initialize Jenkins <br/>
+   <img src='./screenshots/5image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+  
+     
   
   
   
   
 
        
-<img src='./src/image1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
-
-<br />
-<br />
-
-    
-     install jenkins as a container
-       docker run -p 8080:8080 -p 50000:50000 -d -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
-<img src='./src/image2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
-
-3. initialize jenkins
-    
-<img src='./src/image3.png' height="80%" width="80%" alt="Disk Sanitization Steps">
     
 
 </p>
