@@ -29,6 +29,9 @@
 
   install Jenkins as docker image<br/>
   <img src='./screenshots/4image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+  configure firewall custom port and add jenkins container port 8080
+  copy public IP and jenkins port and start jenkins in the browser
   
   
   
