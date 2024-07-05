@@ -16,11 +16,12 @@
 
 <h2>Detailed Description of Project </h2>
 
-<p align="center">
+<p right="center">
   Create droplet ("my-server")<br/>
   Create and configure firewall on DigitalOcean("server-firewall"): <br/>
-    <b>set inbound rules<b/>
-      set my client PC ip as ssh source so that only my PC can ssh into the server
+  set inbound rules<br/>
+  set my client PC ip as ssh source so that only my PC can ssh into the server<br/>
+  <img src='./src/image1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
        Login to DigitalOcean
        Select droplet
