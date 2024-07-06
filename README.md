@@ -50,6 +50,8 @@
    install plugins<br/>
   <img src='./screenshots/4image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
+  
+    Jenkins image has been pulled from dockerhub and the container is running as well
    <img src='./screenshots/6image.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
   
