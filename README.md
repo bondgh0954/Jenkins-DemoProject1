@@ -16,7 +16,7 @@
 
 <h2>Detailed Description of Project </h2>
 
-<p align="center">
+<p right="center">
   Create droplet ("my-server")<br/>
   Create and configure firewall on DigitalOcean("server-firewall"): <br/>
   set inbound rules<br/>
